@@ -35,15 +35,9 @@
 
 
 /*---------------------- Settings ----------------------*/
-
+@import "settings/_font";
+@import "settings/_colors";
 :root {
-  --font-primaire: 'Rubik', sans-serif;
-  --font-secondaire: 'Expletus Sans', cursive;
-
-  --couleur-primaire: #FFC107;
-
-  --couleur-noir: #222;
-  --couleur-blanc: #fff;
 
   --marge-grand: 20px;
   --marge-petit: 10px;
